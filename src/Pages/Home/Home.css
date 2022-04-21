@@ -1,0 +1,18 @@
+.container{
+    width: 90vw;
+    display: flex;
+
+    flex-wrap: wrap;
+    
+    justify-content: center;
+    align-items: center;
+    margin: 40px auto;
+
+}
+.heading{
+    font-weight: bold;
+    color: white;
+    text-align: center;
+    margin-top: 4vh;
+    
+}

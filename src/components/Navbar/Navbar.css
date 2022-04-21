@@ -1,0 +1,27 @@
+
+
+nav{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 16px ;
+    border-bottom: 1px solid rgb(247, 245, 243);
+
+    color: rgb(219, 207, 207);
+
+}
+ul{
+    display: flex;
+    margin-left: 116px;
+}
+.navlink{
+    /* list-style: none; */
+    padding: 12px;
+    text-decoration: none;
+    color: rgb(219, 207, 207);
+
+
+    
+}
+.logo{
+    padding: 7px;
+}
